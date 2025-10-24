@@ -13,7 +13,7 @@ function App() {
         margin: '0',
       }}
     >
-      <BrowserRouter>
+      <BrowserRouter basename="/PureLeaf-School-Project">
         <Routes>
           <>
             <Route path="/" element={<Home/>}/>
