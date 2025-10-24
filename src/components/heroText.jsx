@@ -5,8 +5,8 @@ export const HeroText = () => {
   return (
       <div style={{ position: "relative", height: "94vh", width: "100vw", overflow: "hidden" }}>
         <img
-            src="/front-background.jpg"
-            alt="food image"
+            src={`${import.meta.env.BASE_URL}front-background.jpg`}
+          alt="food image"
             style={{
               height: "100%",
               width: "100%",
