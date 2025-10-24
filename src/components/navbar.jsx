@@ -20,7 +20,7 @@ export const Navbar = () => {
 
           }}
       >
-        <img src="/download.svg" alt="test" style={{
+        <img src={`${import.meta.env.BASE_URL}front-background.jpg`} alt="test" style={{
           height: '4rem',
           paddingLeft: 100,
           backgroundColor: resturantTheme.palette.primary.navbarBackground
