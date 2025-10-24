@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KevinLangeland.github.io/PureLeaf-School-Project-",
+  "homepage": "https://KevinLangeland.github.io/PureLeaf-School-Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
